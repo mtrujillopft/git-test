@@ -11,6 +11,14 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "lite-server": "^2.5.4"
-  }
+    "lite-server": "^2.6.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mtrujillopft/git-test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mtrujillopft/git-test/issues"
+  },
+  "homepage": "https://github.com/mtrujillopft/git-test#readme"
 }
